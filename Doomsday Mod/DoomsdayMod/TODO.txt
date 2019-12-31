@@ -1,0 +1,24 @@
+#Doomsday Mod
+#####
+#Sounds
+# Nuclear Blast
+# Enter Bunker
+# Death
+# Irradiated Human (Zombie)
+# All Clear
+# Nuclear Warning
+#####
+#Hostile Mobs
+# Irradiated Human
+# Mean Mutt
+# Leeches
+#####
+#Mobs
+# Fighter
+# Fish
+# Tiger
+# People
+# Partially Irradiated Human (Ghoul)
+####
+#Recipies
+# Steel to Iron

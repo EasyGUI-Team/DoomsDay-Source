@@ -1,0 +1,13 @@
+#MOD PACK STUFF 
+NotEnoughItems 
+EnderIO 
+EnderCore
+EnderIOAddons 
+IronChests 
+EnderChests 
+MoreBends
+WorldEdit 
+Applied Energistics 2 
+Big Reactors 
+RPG Hud: #LINK HERE 
+Optifine (Optional)
